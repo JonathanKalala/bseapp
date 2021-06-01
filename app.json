@@ -2,6 +2,7 @@
   "expo": {
     "name": "bourse",
     "slug": "bourse",
+    "sdkVersion": "37.0.0",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -20,6 +21,7 @@
       "supportsTablet": true
     },
     "android": {
+      "package": "com.jonathankalala.bourse",
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
